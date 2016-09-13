@@ -15,10 +15,13 @@ We're falling deeper into the cusp where the perceived value of sameness is grea
 value of equality. That's the reality, unfortunately. 
 
 You're more concerned with where I've graduated from school than what I've learned or what I've done.
+
 You're still concerned with "thinking outside the box" rather than realizing that boxes were designed
 for shipping, not thinking.
+
 You're unfortunately still asking what framework I'm using to solve a problem rather than asking about the
 problem I'm solving.
+
 Still asking what language is this program written in rather than understanding the message we've 
 been preaching in the same language that you speak.
 
