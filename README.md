@@ -1,10 +1,9 @@
 ### ChocolateJS
-![image](https://avatars0.githubusercontent.com/u/20373729?v=3&s=200)
 #### A place to celebrate the usually uninvited faces in tech.
 
 Imagine the genius with the lightbulb moment that was never given the platform to shine. 
 Too often, the common genius is undermined by people who cannot understand the beauty in difference. 
-I believe people are shortsighted and narrow minded when it comes to accepting the first outlier in their
+I believe people are narrow minded when it comes to accepting the first outlier in their
 dataset. Even scientific researchers say, "we can just disregard that variable, it's an outlier." 
 
 Outliers matter. For they are the beginning of a new path, a new skew, in our realities. 
